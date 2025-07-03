@@ -15,7 +15,7 @@ This project is a simple React-based UI that demonstrates managing a dynamic lis
 ## Functionality
 🗂 Display Cards
 - Fetches product data from DummyJSON API
-- Renders each product as a card with name, price, and image
+- Renders each product as a card like image, title, price etc.
 
 🗑 Delete Card
 - Clicking the delete button removes the card from the UI
