@@ -24,8 +24,8 @@ This project is a simple React-based UI that demonstrates managing a dynamic lis
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/react-card-list.git
-cd react-card-list
+- git clone https://github.com/your-username/react-card-list.git
+- cd react-card-list
 
 ### 2. Install dependencies
 
