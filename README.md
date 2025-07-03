@@ -29,12 +29,12 @@ This project is a simple React-based UI that demonstrates managing a dynamic lis
 
 ### 2. Install dependencies
 
-npm install
+- npm install
 or
 yarn install
 
 ### 2. Start the development server
 
-npm run dev
+- npm run dev
 or
 npm start
