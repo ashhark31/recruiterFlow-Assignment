@@ -12,6 +12,19 @@ This project is a simple React-based UI that demonstrates managing a dynamic lis
 - 🔹 **Add new cards** using an add item button
 - 🔹 Styled with **Tailwind CSS** and **Material-UI**
 
+## Functionality
+🗂 Display Cards
+- Fetches product data from DummyJSON API
+- Renders each product as a card with name, price, and image
+
+🗑 Delete Card
+- Clicking the delete button removes the card from the UI
+- Local state is updated to reflect removal
+
+➕ Add Card
+- Add button creates a new mock card with dummy data
+- New card is appended to the card list in UI
+
 ## 🔧 Tech Stack
 
 - **React-Vite**
