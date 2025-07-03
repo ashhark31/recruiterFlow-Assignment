@@ -30,11 +30,11 @@ cd react-card-list
 ### 2. Install dependencies
 
 npm install
-# or
+or
 yarn install
 
 ### 2. Start the development server
 
 npm run dev
-# or
+or
 npm start
